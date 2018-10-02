@@ -1,0 +1,9 @@
+{
+  "name": "friction-gui",
+  "dependencies": {
+    "friction-express": "0.0.1"
+  },
+  "entry": "./build/install.js",
+  "config": "./config.json",
+  "settings": "./settings.json"
+}
