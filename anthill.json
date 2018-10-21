@@ -1,7 +1,9 @@
 {
-  "name": "friction-gui",
+  "name": "admin-panel",
+  "version": "0.1",
   "dependencies": {
-    "friction-express": "0.0.1"
+    "core": "0.1",
+    "express-light": "0.1"
   },
   "entry": "./build/install.js",
   "config": "./config.json",
